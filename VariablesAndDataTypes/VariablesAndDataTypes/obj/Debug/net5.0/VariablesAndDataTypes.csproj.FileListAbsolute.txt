@@ -1,0 +1,15 @@
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/bin/Debug/net5.0/VariablesAndDataTypes.deps.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/bin/Debug/net5.0/VariablesAndDataTypes.runtimeconfig.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/bin/Debug/net5.0/VariablesAndDataTypes.runtimeconfig.dev.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/bin/Debug/net5.0/VariablesAndDataTypes.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/bin/Debug/net5.0/ref/VariablesAndDataTypes.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/bin/Debug/net5.0/VariablesAndDataTypes.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net5.0/VariablesAndDataTypes.csprojAssemblyReference.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net5.0/VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net5.0/VariablesAndDataTypes.AssemblyInfoInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net5.0/VariablesAndDataTypes.AssemblyInfo.cs
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net5.0/VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net5.0/VariablesAndDataTypes.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net5.0/ref/VariablesAndDataTypes.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net5.0/VariablesAndDataTypes.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net5.0/VariablesAndDataTypes.genruntimeconfig.cache

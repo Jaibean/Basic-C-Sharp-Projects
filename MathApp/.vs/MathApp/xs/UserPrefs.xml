@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DDC3B7C1-5F9C-4E83-A76A-DF4911C011E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MathApp/Program.cs">
+    <Files>
+      <File FileName="MathApp/Program.cs" Line="80" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MathApp" expanded="True">
+            <Node name="MathApp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MathApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

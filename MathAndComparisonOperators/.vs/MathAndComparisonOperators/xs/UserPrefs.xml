@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{065333F9-086C-49B2-819A-97EDB5416D41}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MathAndComparisonOperators/Program.cs">
+    <Files>
+      <File FileName="MathAndComparisonOperators/Program.cs" Line="27" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MathAndComparisonOperators" expanded="True">
+            <Node name="MathAndComparisonOperators" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MathAndComparisonOperators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

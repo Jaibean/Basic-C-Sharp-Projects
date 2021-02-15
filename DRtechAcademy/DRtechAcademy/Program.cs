@@ -24,7 +24,7 @@
             string hoursStudied = Console.ReadLine();
             int yourHoursStudied = Convert.ToInt32(hoursStudied);
 
-            Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!” This is the end of the program.");
+            Console.WriteLine("Thank you for your answers. \nAn Instructor will respond to this shortly. Have a great day!” This is the end of the program.");
             Console.ReadLine();
 
     }

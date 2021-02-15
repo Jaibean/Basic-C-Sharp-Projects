@@ -1,0 +1,15 @@
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/obj/Debug/net5.0/MathAndComparisonOperators.csprojAssemblyReference.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/obj/Debug/net5.0/MathAndComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/obj/Debug/net5.0/MathAndComparisonOperators.AssemblyInfoInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/obj/Debug/net5.0/MathAndComparisonOperators.AssemblyInfo.cs
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/obj/Debug/net5.0/MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/bin/Debug/net5.0/MathAndComparisonOperators.deps.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/bin/Debug/net5.0/MathAndComparisonOperators.runtimeconfig.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/bin/Debug/net5.0/MathAndComparisonOperators.runtimeconfig.dev.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/bin/Debug/net5.0/MathAndComparisonOperators.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/bin/Debug/net5.0/ref/MathAndComparisonOperators.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/bin/Debug/net5.0/MathAndComparisonOperators.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/obj/Debug/net5.0/MathAndComparisonOperators.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/obj/Debug/net5.0/ref/MathAndComparisonOperators.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/obj/Debug/net5.0/MathAndComparisonOperators.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathAndComparisonOperators/MathAndComparisonOperators/obj/Debug/net5.0/MathAndComparisonOperators.genruntimeconfig.cache

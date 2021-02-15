@@ -1,0 +1,15 @@
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/obj/Debug/net5.0/MathApp.csprojAssemblyReference.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/obj/Debug/net5.0/MathApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/obj/Debug/net5.0/MathApp.AssemblyInfoInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/obj/Debug/net5.0/MathApp.AssemblyInfo.cs
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/obj/Debug/net5.0/MathApp.csproj.CoreCompileInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/bin/Debug/net5.0/MathApp.deps.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/bin/Debug/net5.0/MathApp.runtimeconfig.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/bin/Debug/net5.0/MathApp.runtimeconfig.dev.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/bin/Debug/net5.0/MathApp.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/bin/Debug/net5.0/ref/MathApp.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/bin/Debug/net5.0/MathApp.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/obj/Debug/net5.0/MathApp.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/obj/Debug/net5.0/ref/MathApp.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/obj/Debug/net5.0/MathApp.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/MathApp/MathApp/obj/Debug/net5.0/MathApp.genruntimeconfig.cache

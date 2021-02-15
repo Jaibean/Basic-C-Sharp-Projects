@@ -56,7 +56,7 @@ namespace MathApp
             int brithYear = Convert.ToInt32(Console.ReadLine());
 
             // divides user iput by 7 and outputs remainder 
-            int remainder = brithYear % 7;
+            int remainder = brithYea % 7;
             Console.WriteLine(remainder);
             Console.ReadLine();
 

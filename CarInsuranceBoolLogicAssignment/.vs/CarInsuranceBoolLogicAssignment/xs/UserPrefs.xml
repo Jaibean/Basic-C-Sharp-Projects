@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0A82E3FD-8FAE-4AC8-A9A1-704BD3723B76}|Default">
+  <MonoDevelop.Ide.ItemProperties.CarInsuranceBoolLogicAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarInsuranceBoolLogicAssignment/Program.cs">
+    <Files>
+      <File FileName="CarInsuranceBoolLogicAssignment/Program.cs" Line="9" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarInsuranceBoolLogicAssignment" expanded="True">
+            <Node name="CarInsuranceBoolLogicAssignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

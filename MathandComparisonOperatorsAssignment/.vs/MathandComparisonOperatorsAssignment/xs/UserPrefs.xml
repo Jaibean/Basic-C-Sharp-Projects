@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{72600559-8B0D-4DBF-BD44-EF55C5E18C6D}|Default">
-  <MonoDevelop.Ide.ItemProperties.MathandComparisonOperatorsAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MathandComparisonOperatorsAssignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MathandComparisonOperatorsAssignment/Program.cs">
     <Files>
-      <File FileName="MathandComparisonOperatorsAssignment/Program.cs" Line="63" Column="1" />
+      <File FileName="MathandComparisonOperatorsAssignment/Program.cs" Line="20" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

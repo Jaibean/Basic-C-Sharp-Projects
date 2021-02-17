@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{800E0D1E-7F0F-4373-961A-BC1300520071}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Loops/Program.cs">
+﻿<Properties StartupConfiguration="{91144315-B40B-4C63-871C-36C9AE8B4905}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringFunctions/Program.cs">
     <Files>
-      <File FileName="Loops/Program.cs" Line="47" Column="6" />
+      <File FileName="StringFunctions/Program.cs" Line="9" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Loops" expanded="True">
-            <Node name="Loops" expanded="True">
+          <Node name="StringFunctions" expanded="True">
+            <Node name="StringFunctions" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StringFunctions FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

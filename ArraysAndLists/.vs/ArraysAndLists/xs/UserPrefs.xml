@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{800E0D1E-7F0F-4373-961A-BC1300520071}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Loops/Program.cs">
+﻿<Properties StartupConfiguration="{B9AD9E1F-6AC2-45F9-BC5E-3F90DE57EFF2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArraysAndLists/Program.cs">
     <Files>
-      <File FileName="Loops/Program.cs" Line="45" Column="33" />
+      <File FileName="ArraysAndLists/Program.cs" Line="45" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Loops" expanded="True">
-            <Node name="Loops" expanded="True">
+          <Node name="ArraysAndLists" expanded="True">
+            <Node name="ArraysAndLists" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,11 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ArraysAndLists PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

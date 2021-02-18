@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{91144315-B40B-4C63-871C-36C9AE8B4905}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="StringFunctions/Program.cs">
     <Files>
-      <File FileName="StringFunctions/Program.cs" Line="9" Column="17" />
+      <File FileName="StringFunctions/Program.cs" Line="35" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +19,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StringFunctions/StringFunctions/Program.cs" relfile="StringFunctions/Program.cs" line="21" column="13" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

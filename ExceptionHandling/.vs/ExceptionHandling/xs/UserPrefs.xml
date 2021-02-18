@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{800E0D1E-7F0F-4373-961A-BC1300520071}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Loops/Program.cs">
+﻿<Properties StartupConfiguration="{7CEDDC14-0C6B-458B-94BA-0AFDD33B00F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExceptionHandling/Program.cs">
     <Files>
-      <File FileName="Loops/Program.cs" Line="45" Column="33" />
+      <File FileName="ExceptionHandling/Program.cs" Line="25" Column="62" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Loops" expanded="True">
-            <Node name="Loops" expanded="True">
+          <Node name="ExceptionHandling" expanded="True">
+            <Node name="ExceptionHandling" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExceptionHandling PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

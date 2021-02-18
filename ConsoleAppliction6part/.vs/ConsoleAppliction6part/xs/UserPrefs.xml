@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{8A9A9B43-07AD-4192-96A0-6A64C4903B94}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iteration/Program.cs">
+﻿<Properties StartupConfiguration="{9D0D2CB4-CBC8-47C5-9C69-211250E5E60D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppliction6part/Program.cs">
     <Files>
-      <File FileName="iteration/Program.cs" Line="71" Column="28" />
+      <File FileName="ConsoleAppliction6part/Program.cs" Line="66" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="iteration" expanded="True">
-            <Node name="iteration" expanded="True">
+          <Node name="ConsoleAppliction6part" expanded="True">
+            <Node name="ConsoleAppliction6part" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,8 +15,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppliction6part PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.iteration PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

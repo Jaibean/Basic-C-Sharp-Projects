@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ConsoleAppliction6part
 {
@@ -50,7 +51,7 @@ namespace ConsoleAppliction6part
 
             //// A loop where the comparison that’s used to determine whether
             //// to continue iterating the loop is a “<=” operator.
-            
+
             //foreach (var i in stringArray)
             //if (stringArray.Length <= 5)
             //{
@@ -63,6 +64,23 @@ namespace ConsoleAppliction6part
             //Console.ReadLine();
 
             // Assignment part four
+
+            List<string> seasonList = new List<string>();
+            seasonList.Add("Spring");
+            seasonList.Add("Summer");
+            seasonList.Add("Fall");
+            seasonList.Add("Winter");
+
+            Console.WriteLine("What season is it?");
+            string currentSeason = Console.ReadLine();
+
+
+
+
+            Console.WriteLine(seasonList[0]);
+            Console.ReadLine();
+
+
 
         }
     }

@@ -28,7 +28,7 @@ namespace MathApp
 
             // adds 25 to user input and prints to console
             int total = yourBirthDay + 25;
-            Console.WriteLine(yourBirthDay);
+            Console.WriteLine(total);
             Console.ReadLine();
 
 
@@ -38,7 +38,7 @@ namespace MathApp
 
             // divides user iput by 12.5
             double quotient = hoursSlept / 12.5;
-            Console.WriteLine(yourBirthDay);
+            Console.WriteLine(quotient);
             Console.ReadLine();
 
 
@@ -56,7 +56,7 @@ namespace MathApp
             int brithYear = Convert.ToInt32(Console.ReadLine());
 
             // divides user iput by 7 and outputs remainder 
-            int remainder = brithYea % 7;
+            int remainder = brithYear % 7;
             Console.WriteLine(remainder);
             Console.ReadLine();
 

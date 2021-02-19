@@ -11,24 +11,37 @@ class Program
         //Ask the user to select an index of the Array
         Console.WriteLine("Pick a number bewtween 0 and 4");
         //display the integer at that index on the screen.
-        int pickedArray = Console.WriteLine();
+        int pickedArray = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine();
+
         if (pickedArray > 4 || pickedArray < 0)
             {
-                Console.WriteLine("That index does not exisit.");
+                Console.WriteLine("That index does not exist.");
             }
-            Console.ReadLine();
+        else
+        {
+            Console.WriteLine("The List item is: " + stringArray[pickedArray]);
+
+        }
+        Console.ReadLine();
         
         // one-dimensional Array of integers.
         int[] intArray = { 8, 5, 9, 2500, 108 };
         //Ask the user to select an index of the Array
         Console.WriteLine("Pick a number bewtween 0 and 4");
         //display the integer at that index on the screen.
-        int pickedIndex = Console.ReadLine(intArray[pickedIndex]);
+        int pickedIndex = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine();
         if (pickedIndex > 4 || pickedIndex < 0)
            {
-               Console.WriteLine("That index does not exisit.");
+               Console.WriteLine("That index does not exist.");
            }
-            Console.ReadLine();
+        else
+        {
+            Console.WriteLine("The List item is: " + intArray[pickedIndex]);
+
+        }
+        Console.ReadLine();
 
 
         //list of strings
@@ -45,12 +58,14 @@ class Program
 
         if (pickedList > 5 || pickedList < 0)
             {
-                Console.WriteLine("That index does not exisit.");
+                Console.WriteLine("That index does not exist.");
             }
-        Console.ReadLine();
+        else
+        {
+            Console.WriteLine("The List item is: " + intList[pickedList]);
 
-            //Console.WriteLine("Pick an index of the below array");
-            //int pickedArray2 = Convert.ToInt32(Console.ReadLine());
+        }
+        Console.ReadLine();
 
         }
 

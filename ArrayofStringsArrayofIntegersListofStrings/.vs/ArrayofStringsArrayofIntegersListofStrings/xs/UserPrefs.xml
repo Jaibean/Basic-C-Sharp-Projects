@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{0E7D164F-8BCD-4B67-BFB8-78A49DD120C5}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ArrayofStringsArrayofIntegersListofStrings/Program.cs">
     <Files>
-      <File FileName="ArrayofStringsArrayofIntegersListofStrings/Program.cs" Line="18" Column="14" />
+      <File FileName="ArrayofStringsArrayofIntegersListofStrings/Program.cs" Line="65" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ArrayofStringsArrayofIntegersListofStrings FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ArrayofStringsArrayofIntegersListofStrings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

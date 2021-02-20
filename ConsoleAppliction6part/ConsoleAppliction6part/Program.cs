@@ -63,26 +63,95 @@ namespace ConsoleAppliction6part
             //}
             //Console.ReadLine();
 
-            // Assignment part four
+            //    // Assignment part four
 
-            List<string> seasonList = new List<string>();
-            seasonList.Add("Spring");
-            seasonList.Add("Summer");
-            seasonList.Add("Fall");
-            seasonList.Add("Winter");
+            //    List<string> seasonList = new List<string>() { "Spring", "Summer", "Fall", "Winter" };
 
-            Console.WriteLine("What season is it?");
-            string currentSeason = Console.ReadLine();
+            //    string currentSeason;
+            //    // loop iterating through the list and then displays the index of the list that contains matching text on the screen
+
+            //    do
+            //    {
+            //        Console.WriteLine("Pick a season from the list: Spring, Summer, Fall, Winter");
+            //        currentSeason = Console.ReadLine();
+
+            //        for (int i = 0; i < seasonList.Count; i++)
+            //        {
+            //            if (currentSeason == seasonList[i])
+            //            {
+            //                Console.WriteLine("You chose the season with an index of: " + i);
+            //            }
+            //        }
+            //        if (!seasonList.Contains(currentSeason))
+            //        {
+            //            Console.WriteLine("Not a match, try again");
+
+            //        }
+
+            //    }
+            //    while (!seasonList.Contains(currentSeason));
+
+            //    Console.ReadLine();
+            //}
+
+            // Assignment part five
+
+            //List<string> shoppingList = new List<string>() { "Onion", "Spinach", "Pasta", "Avocado", "Onion", "Peppers", "Mushrooms" };
 
 
+            //// loop iterating through the list, displays indicies of the list that contain matching text on the screen
 
+            //string chosenItem;
 
-            Console.WriteLine(seasonList[0]);
-            Console.ReadLine();
+            //do
+            //{
+            //    Console.WriteLine("Select text to search for in the list");
+            //    chosenItem = Console.ReadLine();
 
+            //    for (int i = 0; i < shoppingList.Count; i++)
+            //    {
+            //        if (chosenItem == shoppingList[i])
+            //        {
+            //            Console.WriteLine("You chose: " + i);
 
+            //        }
+            //    }
+            //    if (!shoppingList.Contains(chosenItem))
+            //    {
+            //        Console.WriteLine("Not a match, try again");
 
+            //    }
+
+            //}
+            //while (!shoppingList.Contains(chosenItem));
+
+            //Console.ReadLine();
+
+            //Assignment part six
+
+            List<string> shoppingList2 = new List<string>() { "Onion", "Spinach", "Pasta", "Avocado", "Onion", "Peppers", "Mushrooms", "Spinach" };
+
+            // new list to add items, discluding the dupes
+            List<string> shoppingList3 = new List<string>();
+           
+
+            // foreach loop that evaluates each item in list and displays message showing the string and weather or not it has already appeared
+            foreach (string i in shoppingList2)
+            {
+              if (shoppingList3.Contains(i) )
+                {
+                    Console.WriteLine(i + " is a duplicate");
+                }
+                else
+                {
+                    Console.WriteLine(i);
+                    shoppingList3.Add(i);
+                }
+            
+            }
+            
         }
     }
+
 }
    

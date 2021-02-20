@@ -1,0 +1,15 @@
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/bin/Debug/net5.0/tryCatchAssignment.deps.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/bin/Debug/net5.0/tryCatchAssignment.runtimeconfig.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/bin/Debug/net5.0/tryCatchAssignment.runtimeconfig.dev.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/bin/Debug/net5.0/tryCatchAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/bin/Debug/net5.0/ref/tryCatchAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/bin/Debug/net5.0/tryCatchAssignment.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/obj/Debug/net5.0/tryCatchAssignment.csprojAssemblyReference.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/obj/Debug/net5.0/tryCatchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/obj/Debug/net5.0/tryCatchAssignment.AssemblyInfoInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/obj/Debug/net5.0/tryCatchAssignment.AssemblyInfo.cs
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/obj/Debug/net5.0/tryCatchAssignment.csproj.CoreCompileInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/obj/Debug/net5.0/tryCatchAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/obj/Debug/net5.0/ref/tryCatchAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/obj/Debug/net5.0/tryCatchAssignment.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatchAssignment/tryCatchAssignment/obj/Debug/net5.0/tryCatchAssignment.genruntimeconfig.cache

@@ -45,6 +45,7 @@ namespace tryCatchAssignment
             finally
             {
                 Console.WriteLine("The 'try catch' is finished.\nChoose a new number.");
+                userInput = Convert.ToInt32(Console.ReadLine.());
 
             }
 

@@ -1,15 +1,14 @@
-﻿<Properties StartupConfiguration="{CD37E608-2604-41B3-9EDA-29A25DE2712E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TwentyOne/Program.cs">
+﻿<Properties StartupConfiguration="{936CB4F7-F36B-4400-B986-8E796064A14D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaxCalculator/Program.cs">
     <Files>
-      <File FileName="TwentyOne/Program.cs" Line="52" Column="1" />
-      <File FileName="TwentyOne/Card.cs" Line="1" Column="1" />
-      <File FileName="TwentyOne/Deck.cs" Line="1" Column="1" />
+      <File FileName="TaxCalculator/Program.cs" Line="16" Column="48" />
+      <File FileName="TaxCalculator/TaxCalc.cs" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TwentyOne" expanded="True">
-            <Node name="TwentyOne" expanded="True">
+          <Node name="TaxCalculator" expanded="True">
+            <Node name="TaxCalculator" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,9 +16,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TaxCalculator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.TwentyOne PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

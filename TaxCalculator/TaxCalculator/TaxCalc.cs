@@ -1,15 +1,15 @@
 ﻿using System;
-namespace ClassesAndObjectsAssignment
+namespace TaxCalculator
 {
-    public class TaxCalculator
+    public class TaxCalc
     {
-        public TaxCalculator(double TaxRate)
+        public TaxCalc(double TaxRate)
 
         {
             PercentTaxRate = TaxRate / 100;
         }
         public void CalculateTotalPrice(double ItemPrice, double PercentTaxRate)
-       
+
         {
             //calculating total price
             TotalPrice = ItemPrice + (ItemPrice * PercentTaxRate);
@@ -26,3 +26,4 @@ namespace ClassesAndObjectsAssignment
 
     }
 }
+

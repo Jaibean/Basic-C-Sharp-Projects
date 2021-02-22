@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{937A7BB9-0EF8-4E67-B575-EC89EDF9D8DD}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndObjectsAssignment/Program.cs">
     <Files>
-      <File FileName="ClassesAndObjectsAssignment/Program.cs" Line="15" Column="1" />
-      <File FileName="ClassesAndObjectsAssignment/TaxCalculator.cs" />
+      <File FileName="ClassesAndObjectsAssignment/Program.cs" Line="1" Column="1" />
+      <File FileName="ClassesAndObjectsAssignment/TaxCalculator.cs" Line="19" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

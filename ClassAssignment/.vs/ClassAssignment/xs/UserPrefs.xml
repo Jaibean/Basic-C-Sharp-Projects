@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{898C3A77-619A-4759-B073-5C4569DD2028}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassAssignment/Math.cs">
+    <Files>
+      <File FileName="ClassAssignment/Program.cs" Line="13" Column="1" />
+      <File FileName="ClassAssignment/Math.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassAssignment" expanded="True">
+            <Node name="ClassAssignment" expanded="True">
+              <Node name="Math.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

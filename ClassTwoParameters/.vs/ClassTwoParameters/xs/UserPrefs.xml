@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{23FFFCDA-A432-40EC-A376-F7180FA4CB7B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ClassTwoParameters/Param.cs">
     <Files>
-      <File FileName="ClassTwoParameters/Program.cs" Line="15" Column="13" />
-      <File FileName="ClassTwoParameters/Param.cs" Line="15" Column="1" />
+      <File FileName="ClassTwoParameters/Program.cs" Line="1" Column="1" />
+      <File FileName="ClassTwoParameters/Param.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

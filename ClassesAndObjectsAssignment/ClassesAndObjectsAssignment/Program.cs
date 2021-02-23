@@ -13,7 +13,7 @@ namespace ClassesAndObjectsAssignment
             Console.WriteLine("Now pick a decimal");
             decimal randomDec = Convert.ToDecimal(Console.ReadLine());
 
-            Console.WriteLine("Write out a number as a string");
+            Console.WriteLine("Pick a number");
             string randomString = Console.ReadLine();
 
             Math myMethod1 = new Math();

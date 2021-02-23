@@ -5,9 +5,8 @@ namespace ClassAssignment
     {
         public void MathOpp(int x, int y)
         {
-            int result;
-            result = x * y;
-            Console.WriteLine(result);
+            int result = x * y;
+            Console.WriteLine(y);
             Console.ReadLine();
         }
     }

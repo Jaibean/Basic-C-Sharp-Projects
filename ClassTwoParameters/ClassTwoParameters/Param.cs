@@ -4,11 +4,10 @@ namespace ClassTwoParameters
 {
     public class Param
     {
-        public Param(int x, int y)
+       public int Method1(int x, int y = 0)
         {
             int result = x + y;
-            Console.WriteLine(result);
-            Console.ReadLine();
+            return result;
         }
     }
 }

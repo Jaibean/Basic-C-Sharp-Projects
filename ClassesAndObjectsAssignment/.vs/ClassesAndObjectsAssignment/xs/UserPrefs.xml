@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{937A7BB9-0EF8-4E67-B575-EC89EDF9D8DD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndObjectsAssignment/Math.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndObjectsAssignment/Program.cs">
     <Files>
-      <File FileName="ClassesAndObjectsAssignment/Program.cs" Line="22" Column="64" />
-      <File FileName="ClassesAndObjectsAssignment/Math.cs" Line="6" Column="18" />
+      <File FileName="ClassesAndObjectsAssignment/Program.cs" Line="16" Column="45" />
+      <File FileName="ClassesAndObjectsAssignment/Math.cs" Line="27" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ClassesAndObjectsAssignment" expanded="True">
             <Node name="ClassesAndObjectsAssignment" expanded="True">
-              <Node name="Math.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

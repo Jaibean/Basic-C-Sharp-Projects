@@ -11,6 +11,14 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Jaimie", "Alex", "Mark" };
+            game.ListPlayers();
+            game.Play();
+            Console.ReadLine();
+
+
             Deck deck = new Deck();
             deck.Shuffle(3);
            
@@ -25,9 +33,6 @@ namespace TwentyOne
             Console.ReadLine();
         }
 
-        
-
-   
 
         //public static Deck Shuffle(Deck deck, int times)
         //{

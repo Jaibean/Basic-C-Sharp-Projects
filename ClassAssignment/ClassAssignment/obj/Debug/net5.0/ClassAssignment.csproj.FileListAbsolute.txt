@@ -1,0 +1,15 @@
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/bin/Debug/net5.0/ClassAssignment.deps.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/bin/Debug/net5.0/ClassAssignment.runtimeconfig.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/bin/Debug/net5.0/ClassAssignment.runtimeconfig.dev.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/bin/Debug/net5.0/ClassAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/bin/Debug/net5.0/ref/ClassAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/bin/Debug/net5.0/ClassAssignment.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/obj/Debug/net5.0/ClassAssignment.csprojAssemblyReference.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/obj/Debug/net5.0/ClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/obj/Debug/net5.0/ClassAssignment.AssemblyInfoInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/obj/Debug/net5.0/ClassAssignment.AssemblyInfo.cs
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/obj/Debug/net5.0/ClassAssignment.csproj.CoreCompileInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/obj/Debug/net5.0/ClassAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/obj/Debug/net5.0/ref/ClassAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/obj/Debug/net5.0/ClassAssignment.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/ClassAssignment/ClassAssignment/obj/Debug/net5.0/ClassAssignment.genruntimeconfig.cache

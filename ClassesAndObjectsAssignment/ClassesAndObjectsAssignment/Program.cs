@@ -19,7 +19,7 @@ namespace ClassesAndObjectsAssignment
             Math myMethod1 = new Math();
             Console.WriteLine(myMethod1.Method1(randomInt));
             Console.WriteLine(myMethod1.Method2(randomDec));
-            Console.WriteLine(Math.Method3(randomString));
+            Console.WriteLine(myMethod1.Method3(randomString));
 
 
 

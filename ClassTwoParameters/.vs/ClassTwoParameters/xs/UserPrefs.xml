@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{23FFFCDA-A432-40EC-A376-F7180FA4CB7B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassTwoParameters/Param.cs">
+    <Files>
+      <File FileName="ClassTwoParameters/Program.cs" Line="15" Column="13" />
+      <File FileName="ClassTwoParameters/Param.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassTwoParameters" expanded="True">
+            <Node name="ClassTwoParameters" expanded="True">
+              <Node name="Param.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ClassTwoParameters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

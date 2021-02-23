@@ -10,10 +10,16 @@ namespace ClassesAndObjectsAssignment
             Console.WriteLine("Pick an integer");
             int randomInt = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Now pick a decimal");
+            decimal randomDec = Convert.ToDecimal(Console.ReadLine());
+
+            Console.WriteLine("Write out a number as a string");
+            string randomString = Console.ReadLine();
+
             Math myMethod1 = new Math();
             Console.WriteLine(myMethod1.Method1(randomInt));
-            Console.WriteLine(myMethod1.Method2(randomInt));
-            Console.WriteLine(myMethod1.Method3(randomInt));
+            Console.WriteLine(myMethod1.Method2(randomDec));
+            Console.WriteLine(Math.Method3(randomString));
 
 
 

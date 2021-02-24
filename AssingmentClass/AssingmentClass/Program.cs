@@ -18,7 +18,7 @@ namespace AssingmentClass
             Class1 obj1 = new Class1();
             obj1.Method1(userInput);
             obj1.Method2(out int x, out int y);
-            obj1.Method2(out string x, string y);
+            obj1.Method2(out string z, out string c);
             obj1.Method3();
 
             Console.ReadLine();

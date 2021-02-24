@@ -19,12 +19,12 @@ namespace AssingmentClass
 
         }
 
-        public string Method2(out string x, out string y)
+        public string Method2(out string z, out string c)
         {
             string string1 = "Hello";
             string string2 = "Again";
-            x = string1;
-            y = string2;
+            z = string1;
+            c = string2;
             return string1;
         }
 

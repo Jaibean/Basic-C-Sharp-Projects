@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{10E7CB42-B867-4A8A-BAE8-1B96D437C109}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Superclass/Person.cs">
+    <Files>
+      <File FileName="Superclass/Program.cs" Line="11" Column="42" />
+      <File FileName="Superclass/Person.cs" Line="10" Column="29" />
+      <File FileName="Superclass/Employee.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Superclass" expanded="True">
+            <Node name="Superclass" expanded="True">
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Superclass FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

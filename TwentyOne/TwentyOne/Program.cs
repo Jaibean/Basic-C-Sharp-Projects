@@ -12,6 +12,14 @@ namespace TwentyOne
         static void Main(string[] args)
         {
 
+            //List<Game> games = new List<Game>();
+            //TwentyOneGame game = new TwentyOneGame();
+            //games.Add(game);
+            //Game game = new TwentyOneGame();
+
+
+
+
             TwentyOneGame game = new TwentyOneGame();
             game.Players = new List<string>() { "Jaimie", "Alex", "Mark" };
             game.ListPlayers();

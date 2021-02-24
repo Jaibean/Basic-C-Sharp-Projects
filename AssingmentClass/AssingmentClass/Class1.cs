@@ -15,6 +15,8 @@ namespace AssingmentClass
             int number = 5;
             x = number;
             y = number2;
+            return number2;
+
         }
 
         public string Method2(out string x, out string y)
@@ -23,6 +25,7 @@ namespace AssingmentClass
             string string2 = "Again";
             x = string1;
             y = string2;
+            return string1;
         }
 
         public static void Method3(int x)

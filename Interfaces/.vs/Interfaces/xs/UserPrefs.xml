@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{CFF054C1-F94C-428E-8208-A71CF3B7CD0A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/Person.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/Employee.cs">
     <Files>
-      <File FileName="Interfaces/Program.cs" Line="10" Column="1" />
+      <File FileName="Interfaces/Program.cs" Line="16" Column="44" />
       <File FileName="Interfaces/IQuittable.cs" />
-      <File FileName="Interfaces/Employee.cs" Line="12" Column="10" />
-      <File FileName="Interfaces/Person.cs" Line="12" Column="29" />
+      <File FileName="Interfaces/Employee.cs" Line="22" Column="1" />
+      <File FileName="Interfaces/Person.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Interfaces" expanded="True">
             <Node name="Interfaces" expanded="True">
-              <Node name="Person.cs" selected="True" />
+              <Node name="Employee.cs" selected="True" />
             </Node>
           </Node>
         </State>

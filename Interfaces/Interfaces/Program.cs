@@ -10,6 +10,15 @@ namespace Interfaces
 
             emp.FirstName = "Sample";
             emp.LastName = "Student";
+            emp.Id = 0001;
+
+
+            Employee emp2 = new Employee();
+            emp2.FirstName = "Sample2";
+            emp2.LastName = "Student2";
+            emp2.Id = 0002;
+
+
             emp.SayName();
             emp.Quit();
             

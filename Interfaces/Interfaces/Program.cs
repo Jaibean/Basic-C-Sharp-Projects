@@ -19,6 +19,9 @@ namespace Interfaces
             emp2.Id = 0002;
 
 
+            Console.WriteLine("Are the employees equal?");
+            Console.WriteLine(emp == emp2);
+
             emp.SayName();
             emp.Quit();
             

@@ -4,11 +4,11 @@
       <File FileName="TwentyOne/Program.cs" Line="19" Column="36" />
       <File FileName="TwentyOne/Card.cs" />
       <File FileName="TwentyOne/Deck.cs" />
-      <File FileName="TwentyOne/Game.cs" Line="20" Column="1" />
-      <File FileName="TwentyOne/TwentyOneGame.cs" Line="1" Column="1" />
-      <File FileName="TwentyOne/Player.cs" Line="22" Column="10" />
-      <File FileName="TwentyOne/Dealer.cs" Line="1" Column="1" />
-      <File FileName="TwentyOne/IWalkAway.cs" Line="1" Column="1" />
+      <File FileName="TwentyOne/Game.cs" />
+      <File FileName="TwentyOne/TwentyOneGame.cs" />
+      <File FileName="TwentyOne/Player.cs" />
+      <File FileName="TwentyOne/Dealer.cs" />
+      <File FileName="TwentyOne/IWalkAway.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

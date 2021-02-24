@@ -17,15 +17,23 @@ namespace Interfaces
             Console.WriteLine("You are quitting the program");
         }
 
-        public override bool Equals(Object obj)
+        public static bool operator ==(Employee employee, Employee employee2)
         {
-            Employee employee = obj as Employee;
+            if (employee.Id == employee2.Id)
 
-            if (employee == null)
+                return true;
+            else
                 return false;
-
-            return this.Id.Equals(employee.Id);
         }
+        public static bool operator !=(Employee employee, Employee employee2)
+        {
+            if (employee.Id != employee2.Id)
 
+                return true;
+            else
+                return false;
+        }
     }
+
 }
+

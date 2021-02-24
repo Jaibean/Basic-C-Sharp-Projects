@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AbstractSuperclass
+namespace Interfaces
 {
     class Program
     {
@@ -13,8 +13,7 @@ namespace AbstractSuperclass
             emp.SayName();
 
             Console.ReadLine();
+
         }
-
     }
-    }
-
+}

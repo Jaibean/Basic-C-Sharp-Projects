@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4BFA9323-CEF7-4867-861B-5A31B2BDBEF8}|Default">
+  <MonoDevelop.Ide.ItemProperties.AbstractSuperclass FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractSuperclass/Program.cs">
+    <Files>
+      <File FileName="AbstractSuperclass/Program.cs" Line="17" Column="10" />
+      <File FileName="AbstractSuperclass/Person.cs" />
+      <File FileName="AbstractSuperclass/Employee.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractSuperclass" expanded="True">
+            <Node name="AbstractSuperclass" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

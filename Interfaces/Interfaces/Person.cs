@@ -1,10 +1,13 @@
 ﻿using System;
 namespace Interfaces
 {
-    public class Person
+    abstract class Person
     {
-        public Person()
-        {
-        }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+
+        public abstract void SayName();
+       
+
     }
 }

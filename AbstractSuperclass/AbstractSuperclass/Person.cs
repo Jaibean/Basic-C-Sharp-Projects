@@ -6,12 +6,8 @@ namespace AbstractSuperclass
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public string SayName()
-        {
-            string FullName = "Name: " + FirstName + " " + LastName;
-            return FullName;
-
-        }
+        public abstract void SayName();
+        
 
     }
 }

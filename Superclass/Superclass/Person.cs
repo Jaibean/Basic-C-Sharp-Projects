@@ -4,11 +4,12 @@ namespace Superclass
     public class Person
     {
 
-        public string SayName()
+        public void SayName()
         {
             string FullName = "Name: " + FirstName + " " + LastName;
-            return FullName;
-            
+            Console.WriteLine(FullName);
+
+
         }
 
 

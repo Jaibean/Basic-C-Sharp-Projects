@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Interfaces
 {
-    public interface IQuittable
+    interface IQuittable
     {
         void Quit(); // interface method (does not have a body)
     }

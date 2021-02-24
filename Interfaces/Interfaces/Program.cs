@@ -11,7 +11,8 @@ namespace Interfaces
             emp.FirstName = "Sample";
             emp.LastName = "Student";
             emp.SayName();
-
+            emp.Quit();
+            
             Console.ReadLine();
 
         }

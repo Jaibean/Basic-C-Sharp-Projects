@@ -12,13 +12,19 @@ namespace TwentyOne
         static void Main(string[] args)
         {
 
+            ////working with Suit enum
+            //Card card = new Card();
+            //card.Suit = Suit.Clubs;
+            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
+            //Console.WriteLine(underlyingValue);
 
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jaimie";
-            game += player;
-            game -= player;
+
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Jaimie";
+            //game += player;
+            //game -= player;
 
             //List<Game> games = new List<Game>();
             //TwentyOneGame game = new TwentyOneGame();
@@ -31,17 +37,23 @@ namespace TwentyOne
             //game.Play();
             //Console.ReadLine();
 
-
-            Deck deck = new Deck();
-            deck.Shuffle(3);
            
 
+            Card card1 = new Card();
+            Card card2 = card1;
+            card1.Face = Face.Eight;
+            card2.Face = Face.King;
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
+            Console.WriteLine(card1.Face);
+
+            //Deck deck = new Deck();
+            //deck.Shuffle(3);
+
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
          
             Console.ReadLine();
         }
@@ -55,6 +67,10 @@ namespace TwentyOne
         //    }
         //    return deck;
         //}
+
+   
+
+
     }
 
 }

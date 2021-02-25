@@ -1,0 +1,15 @@
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/bin/Debug/net5.0/StructAssignment.deps.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/bin/Debug/net5.0/StructAssignment.runtimeconfig.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/bin/Debug/net5.0/StructAssignment.runtimeconfig.dev.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/bin/Debug/net5.0/StructAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/bin/Debug/net5.0/ref/StructAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/bin/Debug/net5.0/StructAssignment.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/obj/Debug/net5.0/StructAssignment.csprojAssemblyReference.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/obj/Debug/net5.0/StructAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/obj/Debug/net5.0/StructAssignment.AssemblyInfoInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/obj/Debug/net5.0/StructAssignment.AssemblyInfo.cs
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/obj/Debug/net5.0/StructAssignment.csproj.CoreCompileInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/obj/Debug/net5.0/StructAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/obj/Debug/net5.0/ref/StructAssignment.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/obj/Debug/net5.0/StructAssignment.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/StructAssignment/StructAssignment/obj/Debug/net5.0/StructAssignment.genruntimeconfig.cache

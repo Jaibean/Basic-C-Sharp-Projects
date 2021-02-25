@@ -5,7 +5,7 @@ namespace Generics
     public class Employee<T>
     {
         
-        public List<T> Things { get; set; }
+        public List<T> Prop1 { get; set; }
         
     }
 }

@@ -1,15 +1,13 @@
-﻿<Properties StartupConfiguration="{74CD0400-29EA-4D78-8DB3-F40946201628}|Default">
-  <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Program.cs">
+﻿<Properties StartupConfiguration="{9D71D912-5A64-446B-970A-2EA7E06E3581}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StructAssignment/Program.cs">
     <Files>
-      <File FileName="Generics/Program.cs" Line="35" Column="10" />
-      <File FileName="Generics/Employee.cs" Line="8" Column="20" />
+      <File FileName="StructAssignment/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Generics" expanded="True">
-            <Node name="Generics" expanded="True">
+          <Node name="StructAssignment" expanded="True">
+            <Node name="StructAssignment" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StructAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

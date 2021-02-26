@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace LambaAssignment
 {
@@ -7,82 +8,66 @@ namespace LambaAssignment
     {
         static void Main(string[] args)
         {
-            Employee emp1;
-            emp1.FirstName = "Jaimie";
-            emp1.LastName = "Bertoli";
-            emp1.ID = 0001;
 
-            Employee emp2;
-            emp1.FirstName = "Name1";
-            emp1.LastName = "LName1";
-            emp1.ID = 0002;
-
-            Employee emp3;
-            emp1.FirstName = "Joe";
-            emp1.LastName = "Lo";
-            emp1.ID = 0003;
-
-            Employee emp4;
-            emp1.FirstName = "Joe";
-            emp1.LastName = "Mo";
-            emp1.ID = 0004;
-
-            Employee emp5;
-            emp1.FirstName = "Mark";
-            emp1.LastName = "Tide";
-            emp1.ID = 0005;
-
-            Employee emp6;
-            emp1.FirstName = "Leon";
-            emp1.LastName = "Moon";
-            emp1.ID = 0006;
-
-            Employee emp7;
-            emp1.FirstName = "Tyson";
-            emp1.LastName = "Shin";
-            emp1.ID = 0007;
-
-            Employee emp8;
-            emp1.FirstName = "elliot";
-            emp1.LastName = "stan";
-            emp1.ID = 0008;
-
-            Employee emp9;
-            emp1.FirstName = "Jackie";
-            emp1.LastName = "Linden";
-            emp1.ID = 0009;
-
-            Employee emp10;
-            emp1.FirstName = "Mike";
-            emp1.LastName = "Lars";
-            emp1.ID = 0010;
+            List<Employee> firstList = new List<Employee>()
+            {
+                new Employee { FName = "Bill", LName = "Lucas", Id = 101 },
+                new Employee { FName = "Steve", LName = "Lanes", Id = 102 },
+                new Employee { FName = "Jeff", LName = "Clark", Id = 103 },
+                new Employee { FName = "Joe", LName = "Thomas", Id = 104 },
+                new Employee { FName = "Joe", LName = "Wang", Id = 105 },
+                new Employee { FName = "Steven", LName = "Holmes", Id = 106 },
+                new Employee { FName = "Mark", LName = "Lark", Id = 107 },
+                new Employee { FName = "Larry", LName = "Good", Id = 108 },
+                new Employee { FName = "Tim", LName = "Whiles", Id = 109 },
+                new Employee { FName = "Jerry", LName = "Lee", Id = 110 }
+            };
 
 
-
-            List<Employee> firstList = new List<Employee>();
             List<Employee> secondList = new List<Employee>();
 
             //foreach loop to print all employees with first name of joe
-
-            
-            foreach (Employee name in firstList)
+            foreach (Employee employee in firstList)
             {
-                if (firstList.FirstName == "Joe")
+                if (employee.FName == "Joe")
                 {
-                    secondList.Add(name)
-
+                    secondList.Add(employee);
                 }
+
+            }
+
+            foreach (Employee employee in secondList)
+            {
+                Console.WriteLine(employee.FName + " " + employee.LName);
+            }
+
+            //same logic, but with lambda function
+            //List<Employee> secondList = firstList.FindAll(x => (x.FName == "Joe")).ToList();
+
+
+            List<Employee> thirdList = firstList.Where(x => (x.FName == "Joe")).ToList();
+
+            foreach (Employee employee in thirdList)
+            {
+               Console.WriteLine(employee.FName + " " + employee.LName);
             }
 
 
-    }
+            //Using a lambda expression, make a list of all employees with an Id number greater than 5.
 
-        struct Employee
-        {
-            public string FirstName;
-            public string LastName;
-            public int ID;
+            List<Employee> fourthList = firstList.Where(x => (x.Id > 5)).ToList();
+
+            foreach (Employee employee in fourthList)
+            {
+                Console.WriteLine(employee.FName + " " + employee.LName);
+            }
+
+
+
+            Console.ReadLine();
+
         }
+
 
         }
     }

@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{9D71D912-5A64-446B-970A-2EA7E06E3581}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="StructAssignment/Program.cs">
     <Files>
-      <File FileName="StructAssignment/Program.cs" Line="1" Column="1" />
+      <File FileName="StructAssignment/Program.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.StructAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StructAssignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{74CD0400-29EA-4D78-8DB3-F40946201628}|Default">
   <MonoDevelop.Ide.ItemProperties.Generics PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generics/Employee.cs">
     <Files>
       <File FileName="Generics/Program.cs" Line="35" Column="10" />
-      <File FileName="Generics/Employee.cs" Line="8" Column="20" />
+      <File FileName="Generics/Employee.cs" Line="8" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Generics" expanded="True">
             <Node name="Generics" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Employee.cs" selected="True" />
             </Node>
           </Node>
         </State>

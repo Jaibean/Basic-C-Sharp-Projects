@@ -12,6 +12,28 @@ namespace TwentyOne
         static void Main(string[] args)
         {
 
+            Deck deck = new Deck();
+
+            //working with lamba
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+
+            List<int> numberList = new List<int>() { 1, 2, 3, 4, 55, 666, 7 };
+
+            int sum = numberList.Sum(x => x + 5);
+            Console.WriteLine(sum);
+
+
+            //foreach (Card card in newList)
+            //{
+            //    Console.WriteLine(card.Face);
+            //}
+
+            //Deck deck = new Deck();
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+            //Console.WriteLine(count);
+
+
+
             ////working with Suit enum
             //Card card = new Card();
             //card.Suit = Suit.Clubs;
@@ -37,14 +59,13 @@ namespace TwentyOne
             //game.Play();
             //Console.ReadLine();
 
-           
 
-            Card card1 = new Card();
-            Card card2 = card1;
-            card1.Face = Face.Eight;
-            card2.Face = Face.King;
+            //Card card1 = new Card();
+            //Card card2 = card1;
+            //card1.Face = Face.Eight;
+            //card2.Face = Face.King;
 
-            Console.WriteLine(card1.Face);
+            //Console.WriteLine(card1.Face);
 
             //Deck deck = new Deck();
             //deck.Shuffle(3);

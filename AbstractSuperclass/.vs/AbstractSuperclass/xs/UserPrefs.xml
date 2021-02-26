@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{4BFA9323-CEF7-4867-861B-5A31B2BDBEF8}|Default">
   <MonoDevelop.Ide.ItemProperties.AbstractSuperclass PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractSuperclass/Person.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractSuperclass/Program.cs">
     <Files>
       <File FileName="AbstractSuperclass/Program.cs" Line="1" Column="1" />
       <File FileName="AbstractSuperclass/Employee.cs" Line="10" Column="10" />
@@ -12,7 +12,7 @@
           <Node name="AbstractSuperclass" expanded="True">
             <Node name="AbstractSuperclass" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Person.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

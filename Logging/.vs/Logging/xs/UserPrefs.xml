@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C6E4F81B-AE9A-45C1-8CF3-B35AD9FF2D23}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Logging/Program.cs">
+    <Files>
+      <File FileName="Logging/Program.cs" Line="2" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Logging" expanded="True">
+            <Node name="Logging" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Logging FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -18,6 +18,7 @@ namespace TwentyOne
             return string.Format("{0} of {1}", Face, Suit);
         }
 
+    }
         public enum Suit
         {
             Clubs,
@@ -43,4 +44,3 @@ namespace TwentyOne
 
         }
     }
-}

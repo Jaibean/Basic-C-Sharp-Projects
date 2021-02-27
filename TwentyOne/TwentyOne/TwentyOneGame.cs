@@ -19,6 +19,7 @@ namespace TwentyOne
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
+            Dealer.Deck.Shuffle();
             Console.WriteLine("Place your bet!");
 
             foreach (Player player in Players)
@@ -35,7 +36,7 @@ namespace TwentyOne
             for (int i = 0; i < 2; i++)
             {
                 Console.WriteLine("Dealing...");
-                foreach (Player player in Player)
+                foreach (Player player in Players)
                 {
                     Console.Write("{0}: ", player.Name);
                     Dealer.Deal(player.Hand);
@@ -62,6 +63,7 @@ namespace TwentyOne
                         {
                             Dealer.Balance += entry.Value;
                         }
+                        return;
                     }
                 }
             }
@@ -70,9 +72,9 @@ namespace TwentyOne
                 while (!player.Stay)
                 {
                     Console.WriteLine("Your cards are: ");
-                    foreach (Card card in Player.Hand)
+                    foreach (Card card in player.Hand)
                     {
-                        Console.Write("{0} ", card.ToString());
+                        Console.Write("{0} ,", card.ToString());
                     }
                     Console.WriteLine("\n\nHit or stay?");
                     string answer = Console.ReadLine().ToLower();

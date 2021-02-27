@@ -1,4 +1,4 @@
-﻿ using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.IO;
@@ -19,6 +19,7 @@ namespace TwentyOne
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/TwentyOne/Logs/log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0);

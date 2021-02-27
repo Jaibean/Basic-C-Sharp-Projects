@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{C6E4F81B-AE9A-45C1-8CF3-B35AD9FF2D23}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Logging/Program.cs">
+﻿<Properties StartupConfiguration="{B353A413-4B02-4BBB-A3D1-F723F217450A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateTime/Program.cs">
     <Files>
-      <File FileName="Logging/Program.cs" Line="20" Column="1" />
+      <File FileName="DateTime/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Logging" expanded="True">
-            <Node name="Logging" expanded="True">
+          <Node name="DateTime" expanded="True">
+            <Node name="DateTime" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,11 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DateTime PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Logging PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -12,10 +12,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            ////logging
-            //string text = "Here is some text.";
-            //File.WriteAllText(@"/Users/jaimiebertoli/Documents/GitHub/log.txt", text);
-            //string text = File.ReadAllText(@"/Users/jaimiebertoli/Documents/GitHub/log.txt");
+           
 
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");

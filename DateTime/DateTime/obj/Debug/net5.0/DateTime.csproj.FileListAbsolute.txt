@@ -1,0 +1,15 @@
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net5.0/DateTime.csprojAssemblyReference.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net5.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net5.0/DateTime.AssemblyInfoInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net5.0/DateTime.AssemblyInfo.cs
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net5.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/bin/Debug/net5.0/DateTime.deps.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/bin/Debug/net5.0/DateTime.runtimeconfig.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/bin/Debug/net5.0/DateTime.runtimeconfig.dev.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/bin/Debug/net5.0/DateTime.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/bin/Debug/net5.0/ref/DateTime.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/bin/Debug/net5.0/DateTime.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net5.0/DateTime.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net5.0/ref/DateTime.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net5.0/DateTime.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net5.0/DateTime.genruntimeconfig.cache

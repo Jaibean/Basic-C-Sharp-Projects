@@ -1,0 +1,15 @@
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/bin/Debug/net5.0/tryCatch.deps.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/bin/Debug/net5.0/tryCatch.runtimeconfig.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/bin/Debug/net5.0/tryCatch.runtimeconfig.dev.json
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/bin/Debug/net5.0/tryCatch.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/bin/Debug/net5.0/ref/tryCatch.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/bin/Debug/net5.0/tryCatch.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/obj/Debug/net5.0/tryCatch.csprojAssemblyReference.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/obj/Debug/net5.0/tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/obj/Debug/net5.0/tryCatch.AssemblyInfoInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/obj/Debug/net5.0/tryCatch.AssemblyInfo.cs
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/obj/Debug/net5.0/tryCatch.csproj.CoreCompileInputs.cache
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/obj/Debug/net5.0/tryCatch.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/obj/Debug/net5.0/ref/tryCatch.dll
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/obj/Debug/net5.0/tryCatch.pdb
+/Users/jaimiebertoli/Documents/GitHub/Basic-C-Sharp-Projects/tryCatch/obj/Debug/net5.0/tryCatch.genruntimeconfig.cache

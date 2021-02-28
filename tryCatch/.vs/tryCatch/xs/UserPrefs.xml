@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{C3ED354B-3A90-4905-AB42-FB79CD197C33}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="constVar/Program.cs">
+﻿<Properties StartupConfiguration="{AE22E188-08ED-4DFE-9B61-F12D4EFDFFC8}|Default">
+  <MonoDevelop.Ide.ItemProperties.tryCatch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="constVar/Program.cs" Line="19" Column="1" />
+      <File FileName="Program.cs" Line="32" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="constVar" expanded="True">
-            <Node name="constVar" expanded="True">
+          <Node name="tryCatch" expanded="True">
+            <Node name="tryCatch" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,7 +17,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.constVar PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

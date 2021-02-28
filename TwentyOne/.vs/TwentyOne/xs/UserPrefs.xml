@@ -1,25 +1,26 @@
 ﻿<Properties StartupConfiguration="{CD37E608-2604-41B3-9EDA-29A25DE2712E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TwentyOne/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Casino/TwentyOneGame.cs">
     <Files>
-      <File FileName="TwentyOne/Program.cs" Line="19" Column="10" />
+      <File FileName="TwentyOne/Program.cs" Line="72" Column="22" />
       <File FileName="Casino/IWalkAway.cs" />
       <File FileName="Casino/Player.cs" />
-      <File FileName="Casino/TwentyOneGame.cs" />
+      <File FileName="Casino/TwentyOneGame.cs" Line="1" Column="1" />
       <File FileName="Casino/TwentyOneRules.cs" />
       <File FileName="Casino/TwentyOneDealer.cs" />
       <File FileName="Casino/Game.cs" />
       <File FileName="Casino/Dealer.cs" />
       <File FileName="Casino/Card.cs" />
       <File FileName="Casino/Deck.cs" />
+      <File FileName="Casino/FraudException.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TwentyOne" expanded="True">
-            <Node name="Casino" expanded="True" />
-            <Node name="TwentyOne" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="Casino" expanded="True">
+              <Node name="TwentyOneGame.cs" selected="True" />
             </Node>
+            <Node name="TwentyOne" expanded="True" />
           </Node>
         </State>
       </Pad>

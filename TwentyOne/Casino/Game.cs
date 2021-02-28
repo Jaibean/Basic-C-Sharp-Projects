@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TwentyOne
+namespace Casino
+
 {
     public abstract class Game
     {

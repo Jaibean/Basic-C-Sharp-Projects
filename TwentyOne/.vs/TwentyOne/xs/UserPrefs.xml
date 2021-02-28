@@ -1,23 +1,24 @@
 ﻿<Properties StartupConfiguration="{CD37E608-2604-41B3-9EDA-29A25DE2712E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TwentyOne/Dealer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwentyOne/Program.cs">
     <Files>
-      <File FileName="TwentyOne/Program.cs" Line="15" Column="12" />
-      <File FileName="TwentyOne/Card.cs" />
-      <File FileName="TwentyOne/Deck.cs" />
-      <File FileName="TwentyOne/Game.cs" />
-      <File FileName="TwentyOne/TwentyOneGame.cs" />
-      <File FileName="TwentyOne/Player.cs" />
-      <File FileName="TwentyOne/Dealer.cs" Line="1" Column="1" />
-      <File FileName="TwentyOne/IWalkAway.cs" />
-      <File FileName="TwentyOne/TwentyOneDealer.cs" />
-      <File FileName="TwentyOne/TwentyOneRules.cs" />
+      <File FileName="TwentyOne/Program.cs" Line="19" Column="10" />
+      <File FileName="Casino/IWalkAway.cs" />
+      <File FileName="Casino/Player.cs" />
+      <File FileName="Casino/TwentyOneGame.cs" />
+      <File FileName="Casino/TwentyOneRules.cs" />
+      <File FileName="Casino/TwentyOneDealer.cs" />
+      <File FileName="Casino/Game.cs" />
+      <File FileName="Casino/Dealer.cs" />
+      <File FileName="Casino/Card.cs" />
+      <File FileName="Casino/Deck.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TwentyOne" expanded="True">
+            <Node name="Casino" expanded="True" />
             <Node name="TwentyOne" expanded="True">
-              <Node name="Dealer.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

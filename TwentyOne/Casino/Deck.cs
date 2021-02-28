@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace TwentyOne
+namespace Casino
+
 {
     public class Deck
     {

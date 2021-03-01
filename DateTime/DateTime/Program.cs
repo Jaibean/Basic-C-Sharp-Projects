@@ -19,12 +19,12 @@ namespace DateTimeAssignment
             Console.WriteLine("Pick a number");
             int userInput = Convert.ToInt32(Console.ReadLine());
             // Prints to the console the exact time it will be in X hours, X being the number the user entered in step 2.
-
+            Console.ReadLine();
 
 
 
             DateTime thenAndNow = DateTime.Now.AddHours(userInput);
-            Console.WriteLine("It will be " + thenAndNow + "in " + userInput + " hours.");
+            Console.WriteLine("It will be " + thenAndNow + " in " + userInput + " hours.");
             Console.ReadLine();
 
 

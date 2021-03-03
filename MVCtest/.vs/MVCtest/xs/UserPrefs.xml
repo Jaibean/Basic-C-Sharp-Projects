@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{3F90313F-FAB7-4E88-A01C-F7963F0F2A35}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVCtest" expanded="True">
+            <Node name="MVCtest" expanded="True">
+              <Node name="Pages" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MVCtest FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

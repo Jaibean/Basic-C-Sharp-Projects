@@ -6,7 +6,7 @@ namespace constVar
     {
         static void Main(string[] args)
         {
-           var day = new string("Sunday");
+           var day = "Sunday";
 
 
             const string playerName = "Jaimie";
@@ -15,7 +15,7 @@ namespace constVar
             Console.ReadLine();
 
             ConstructMe a = new ConstructMe("Jaimie", "Monday");
-            Console.WriteLine($"Welcom {a.name}. Today is {a.day1}");
+            Console.WriteLine($"Welcome {a.name}. Today is {a.day1}");
             Console.ReadKey(); ;
 
 
@@ -24,11 +24,23 @@ namespace constVar
         {
             public string name;
             public string day1;
-            public ConstructMe(string Name, string Day1)
+
+            public ConstructMe() : this(" "," ")
+            {
+
+            }
+            public ConstructMe(string Name, string Day)
             {
                 this.name = Name;
-                this.day1 = Day1;
+                this.day1 = Day;
             }
+
+            public ConstructMe(string name) : this(name, " ")
+            {
+
+            }
+       
+    
 
         }
        

@@ -12,14 +12,16 @@
       <File FileName="Casino/Card.cs" />
       <File FileName="Casino/Deck.cs" />
       <File FileName="Casino/FraudException.cs" />
-      <File FileName="TwentyOne/ExceptionEntity.cs" Line="13" Column="1" />
+      <File FileName="TwentyOne/ExceptionEntity.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TwentyOne" expanded="True" selected="True">
+          <Node name="TwentyOne" expanded="True">
             <Node name="Casino" expanded="True" />
-            <Node name="TwentyOne" expanded="True" />
+            <Node name="TwentyOne" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

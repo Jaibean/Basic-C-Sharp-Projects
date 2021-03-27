@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GwfHk6q+JICYPxUHoAe2rrYWG3aE3BxcKUpbVu3Q/8xnRE4AlOsng4Fz70M74M45k7tTpI1a4KxHTpcExmXbxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaimi\\Documents\\TechA\\Basic-C-Sharp-Projects\\NewsletterAppMVC\\NewsletterAppMVC\\NewsletterAppMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaimi\\.nuget\\packages\\bootstrap\\4.6.0\\bootstrap.4.6.0.nupkg.sha512",
+    "C:\\Users\\jaimi\\.nuget\\packages\\jquery\\3.5.1\\jquery.3.5.1.nupkg.sha512",
+    "C:\\Users\\jaimi\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
